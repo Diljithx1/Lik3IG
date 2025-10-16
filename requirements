@@ -1,0 +1,6 @@
+cat > requirements.txt <<'EOF'
+Flask==2.3.2
+requests==2.31.0
+EOF
+
+pip install -r requirements.txt
